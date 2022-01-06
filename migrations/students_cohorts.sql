@@ -31,4 +31,3 @@ if a record in the parent table is deleted, then the corresponding records in th
 https://stackoverflow.com/questions/14141266/postgresql-foreign-key-on-delete-cascade
 
 */
-
